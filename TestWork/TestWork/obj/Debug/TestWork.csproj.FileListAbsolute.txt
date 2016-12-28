@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\TestWork\TestWork\bin\Debug\TestWork.exe.config
+C:\Users\Student\Documents\TestWork\TestWork\obj\Debug\TestWork.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\TestWork\TestWork\bin\Debug\TestWork.exe
+C:\Users\Student\Documents\TestWork\TestWork\bin\Debug\TestWork.pdb
+C:\Users\Student\Documents\TestWork\TestWork\obj\Debug\TestWork.exe
+C:\Users\Student\Documents\TestWork\TestWork\obj\Debug\TestWork.pdb
